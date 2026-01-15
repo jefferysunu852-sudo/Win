@@ -1,4 +1,0 @@
-openpyxl
-pandas
-pytest
-streamlit
